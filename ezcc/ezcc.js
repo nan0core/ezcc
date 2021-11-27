@@ -1,8 +1,8 @@
 //https://github.com/antoinebaron-io/ezcc
 
 var ezcc_config = {
-	'lang':'en',
-	'adsense': true,
+	'lang':'fr',
+	'adsense': false,
 	'analytics': true,
 	'wait_until_displayed' : 400,
 	'img_cookie_header' : true,
